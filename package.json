@@ -116,7 +116,7 @@
     "electron-devtools-installer": "^2.2.4",
     "electron-publisher-s3": "^20.17.2",
     "electron-window-state": "^5.0.3",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "webpack": "3.10.0"
   },
   "devEngines": {
